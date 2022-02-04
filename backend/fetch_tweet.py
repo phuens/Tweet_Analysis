@@ -45,10 +45,10 @@ def search_for_hashtags(consumer_key, consumer_secret, access_token, access_toke
 
 
 if __name__ == '__main__':
-    consumer_key = 'B8UbvqDsG7Dpf4lfGx0uEMObl'
-    consumer_secret = 'kymKFIj56unZAWXZF4j9f93Oa89371SMsLbDsJXybrgnmh0eI7'
-    access_token = '1944237696-UIpFJBtKBnprVgiZsV2LCd8wtAgkoC0VmxM7qdL'
-    access_token_secret = 'OKxS42AbBh8luJ9IoGLqgajzoblwyYdsqJLtGEnDaKSzJ'
+    consumer_key = 
+    consumer_secret = 
+    access_token =
+    access_token_secret = 
     hashtag_phrase = 'geocode:27.466079,89.639010,30km'
 
     search_for_hashtags(consumer_key, consumer_secret,
